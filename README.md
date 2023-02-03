@@ -29,5 +29,6 @@ Generates Spotify playlists for upcoming music festivals based on artists' the u
 ![Recommend Results](ImagesReadMe/Playlist.png)
 
 #### The Results of create_playlist for Dancefestopia
+- About 50/50 on songs I listen to and songs I do not
 ![Playlist Results](ImagesReadMe/Recommend.png)
 
