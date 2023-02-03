@@ -24,3 +24,8 @@ Generates Spotify playlists for upcoming music festivals based on artists' the u
 - Run "pip install -r requirements.txt" to download packages
 - Download ChromeDriver (https://chromedriver.chromium.org/downloads) 
 
+## Example Results
+![Recommend Results](ImagesReadMe/Screenshot 2023-02-03 at 3.10.32 PM.png)
+
+![Model2](Screenshot 2023-02-03 at 3.10.32 PM.png)
+
