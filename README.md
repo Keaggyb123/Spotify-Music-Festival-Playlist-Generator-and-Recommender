@@ -29,7 +29,7 @@ Generates Spotify playlists for upcoming music festivals based on artists' the u
 2. Add Sliders for create_playlists
 - Artists' you listen to vs Recommendations
 - Popular Artists or Less Popular Artists
-- Distribution of Artists Songs
+- Distribution of Artists Songs (Max Number of Songs per Artist
 3. Create Frontend and Backend
 
 ## Example Results
