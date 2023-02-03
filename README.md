@@ -12,7 +12,7 @@ Generates Spotify playlists for upcoming music festivals based on artists' the u
 
 ### FestivalDB
 - **FestivalDB** is a folder with Festival_Characteristics.xlsx and CreateLineups.
-- **CreateLineups** uses Selenium and BeautifulSoup to mine Music Festival Wizard (https://www.musicfestivalwizard.com/) for festival names, dates, locations and artists attending. This data is used to create Festival_Characteristics.xlsx.
+- **CreateLineups** uses Selenium and BeautifulSoup to scrape Music Festival Wizard (https://www.musicfestivalwizard.com/) for festival names, dates, locations and artists attending. This data is used to create Festival_Characteristics.xlsx.
 - Current URL mines 148 EDM festivals in the Unites States from July 1st 2022 to December 31st 2023 with released lineups.
 
 ### Access
