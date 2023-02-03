@@ -25,7 +25,9 @@ Generates Spotify playlists for upcoming music festivals based on artists' the u
 - Download ChromeDriver (https://chromedriver.chromium.org/downloads) 
 
 ## Example Results
-![Recommend Results](ImagesReadMe/Recommend.png)
+#### The Results of recommend
+![Recommend Results](ImagesReadMe/Playlist.png)
 
-![Playlist Results](ImagesReadMe/Playlist.png)
+#### The Results of create_playlist for Dancefestopia
+![Playlist Results](ImagesReadMe/Recommend.png)
 
