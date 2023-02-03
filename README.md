@@ -24,6 +24,14 @@ Generates Spotify playlists for upcoming music festivals based on artists' the u
 - Run "pip install -r requirements.txt" to download packages
 - Download ChromeDriver (https://chromedriver.chromium.org/downloads) 
 
+## Future Plans
+1. Create more robust Artist Scoring System
+2. Add Sliders for create_playlists
+- Artists' you listen to vs Recommendations
+- Popular Artists or Less Popular Artists
+- Distribution of Artists Songs
+3. Create Frontend and Backend
+
 ## Example Results
 ### The Results of recommend
 ![Recommend Results](ImagesReadMe/Playlist.png)
