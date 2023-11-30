@@ -1,6 +1,6 @@
 # Spotify Music Festival Playlist Generator and Recommender
 
-## [Click here] ("https://www.youtube.com/watch?v=2u4KDP6116I") for link to youtube walkthrough using 
+## [Click here](https://www.youtube.com/watch?v=2u4KDP6116I) for link to youtube walkthrough of the updated Webapp
 Generates Spotify playlists for upcoming music festivals based on artists' the user listens to. Recommends music festival for the users based on their top artists.
 
 ## Description
